@@ -21,4 +21,9 @@
     - Algorithm Design and Analysis
     - C++ 
 
+<h3 align="left">If you want to talk with me: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mariana-rodriguesx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-rocha-24018818a" height="30" width="40" /></a>
+</p>
+
 

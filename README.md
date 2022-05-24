@@ -23,7 +23,7 @@
     
 - 💌 If you want to talk with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/mariana-rodriguesx/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+  <a href="marianarodriguesdesantana@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
   <a href="https://www.linkedin.com/in/mariana-rodriguesx/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
 </div>
 

@@ -9,14 +9,14 @@
  
  - 📚 I'm currently learnig:
     - javascript
-    - react-native
-    - AI
+    - typescript
+    - Angular
  - 🤯 I'm currrently researching:
     - Blockchain Fundamentals
     - Fog - IoT integration
     - Blockchain-Fog-IoT
     - Smart Contracts
- - ❤️‍🔥	 I'm currently in love with ...
+ - ❤️‍🔥 I'm currently in love with ...
     - Data Structures
     - Algorithm Design and Analysis
     - C++ 
